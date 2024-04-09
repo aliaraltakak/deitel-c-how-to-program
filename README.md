@@ -1,4 +1,4 @@
-# deitel-c-how-to-program
+#C: How To Program (9th Edition) by Paul Deitel and Harvey Deitel #
 A repository that contains my own implementations of end-of-chapter problems of "C: How to Program", 9th edition by Paul Demirel and Harvey Demirel.
 
 **Chapter 2**
